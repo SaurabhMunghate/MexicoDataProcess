@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Luis Potosi",
+               "short_name" : "S.L.P.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis Potosi, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.4915218,
+                  "lng" : -98.32596699999999
+               },
+               "southwest" : {
+                  "lat" : 21.1601538,
+                  "lng" : -102.2960383
+               }
+            },
+            "location" : {
+               "lat" : 22.1565651,
+               "lng" : -100.9854628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4915218,
+                  "lng" : -98.32596699999999
+               },
+               "southwest" : {
+                  "lat" : 21.1601538,
+                  "lng" : -102.2960383
+               }
+            }
+         },
+         "place_id" : "ChIJefusBQCiKoQRXkEExEGyIOY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

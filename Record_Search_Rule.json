@@ -1,0 +1,13 @@
+{
+	"rules":
+	[
+		{"company_Name":"90","address":"80","city":"90"},
+		{"company_Name":"75","phone":"90"},
+		{"company_Name":"75","address":"80","city":"80","state":"90"},
+		{"company_Name":"75","city":"80","state":"90"},
+		{"company_Name":"75","address":"80","city":"80","state":"80"},
+		{"company_Name":"75","address":"80","city":"80","zip":"90"}
+
+	]
+
+}

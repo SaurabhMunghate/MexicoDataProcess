@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Querétaro",
+               "short_name" : "Qro.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Querétaro, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.6700054,
+                  "lng" : -99.04307969999999
+               },
+               "southwest" : {
+                  "lat" : 20.0150182,
+                  "lng" : -100.5965358
+               }
+            },
+            "location" : {
+               "lat" : 20.5888184,
+               "lng" : -100.3898876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.6700054,
+                  "lng" : -99.04307969999999
+               },
+               "southwest" : {
+                  "lat" : 20.0150182,
+                  "lng" : -100.5965358
+               }
+            }
+         },
+         "place_id" : "ChIJX3BEYdFE04URu2lIpMSxRpE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

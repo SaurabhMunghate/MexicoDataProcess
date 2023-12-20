@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zacatecas",
+               "short_name" : "Zac.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zacatecas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1252355,
+                  "lng" : -100.7423241
+               },
+               "southwest" : {
+                  "lat" : 21.0418694,
+                  "lng" : -104.353533
+               }
+            },
+            "location" : {
+               "lat" : 22.7708555,
+               "lng" : -102.5832426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1252355,
+                  "lng" : -100.7423241
+               },
+               "southwest" : {
+                  "lat" : 21.0418694,
+                  "lng" : -104.353533
+               }
+            }
+         },
+         "place_id" : "ChIJb_7JfqDRgYYRmG0lXv0tHxw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

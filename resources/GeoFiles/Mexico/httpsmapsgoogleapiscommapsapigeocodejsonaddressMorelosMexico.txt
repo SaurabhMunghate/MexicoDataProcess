@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morelos",
+               "short_name" : "Mor.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morelos, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1317018,
+                  "lng" : -98.63294660000001
+               },
+               "southwest" : {
+                  "lat" : 18.332373,
+                  "lng" : -99.4944141
+               }
+            },
+            "location" : {
+               "lat" : 18.6813049,
+               "lng" : -99.10134979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1317018,
+                  "lng" : -98.63294660000001
+               },
+               "southwest" : {
+                  "lat" : 18.332373,
+                  "lng" : -99.4944141
+               }
+            }
+         },
+         "place_id" : "ChIJR_72Ja7fzYURD91poSWCX5c",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

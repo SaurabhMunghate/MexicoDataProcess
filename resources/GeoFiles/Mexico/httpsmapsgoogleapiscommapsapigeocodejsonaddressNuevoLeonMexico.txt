@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuevo Leon",
+               "short_name" : "N.L.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuevo Leon, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7991372,
+                  "lng" : -98.42157589999999
+               },
+               "southwest" : {
+                  "lat" : 23.162683,
+                  "lng" : -101.2067627
+               }
+            },
+            "location" : {
+               "lat" : 25.592172,
+               "lng" : -99.99619469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7991372,
+                  "lng" : -98.42157589999999
+               },
+               "southwest" : {
+                  "lat" : 23.162683,
+                  "lng" : -101.2067627
+               }
+            }
+         },
+         "place_id" : "ChIJXbClooSVYoYRxrtsw0L0HXA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

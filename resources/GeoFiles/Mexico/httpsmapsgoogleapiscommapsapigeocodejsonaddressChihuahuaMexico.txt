@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chihuahua, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7844862,
+                  "lng" : -103.3067686
+               },
+               "southwest" : {
+                  "lat" : 25.5588435,
+                  "lng" : -109.0748861
+               }
+            },
+            "location" : {
+               "lat" : 28.4854458,
+               "lng" : -105.7820674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7844862,
+                  "lng" : -103.3067686
+               },
+               "southwest" : {
+                  "lat" : 25.5588435,
+                  "lng" : -109.0748861
+               }
+            }
+         },
+         "place_id" : "ChIJCaSRhS91loYRB36nQFPig5s",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

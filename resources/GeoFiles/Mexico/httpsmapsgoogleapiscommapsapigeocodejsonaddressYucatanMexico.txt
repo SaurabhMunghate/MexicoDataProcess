@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yucatan",
+               "short_name" : "Yuc.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yucatan, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6137999,
+                  "lng" : -87.5331451
+               },
+               "southwest" : {
+                  "lat" : 19.551174,
+                  "lng" : -92.32629999999999
+               }
+            },
+            "location" : {
+               "lat" : 20.7098786,
+               "lng" : -89.0943377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6137999,
+                  "lng" : -87.5331451
+               },
+               "southwest" : {
+                  "lat" : 19.551174,
+                  "lng" : -92.32629999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7QTWqvgPVI8RCj0IMXUhzMw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

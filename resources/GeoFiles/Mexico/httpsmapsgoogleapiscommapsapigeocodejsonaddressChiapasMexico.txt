@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "Chis.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiapas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.9852877,
+                  "lng" : -90.3702138
+               },
+               "southwest" : {
+                  "lat" : 14.5320984,
+                  "lng" : -94.13915589999999
+               }
+            },
+            "location" : {
+               "lat" : 16.7569318,
+               "lng" : -93.12923529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.9852877,
+                  "lng" : -90.3702138
+               },
+               "southwest" : {
+                  "lat" : 14.5320984,
+                  "lng" : -94.13915589999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ85Xl7REjYURFdYZRoIzAM8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

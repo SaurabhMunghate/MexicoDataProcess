@@ -1,0 +1,65 @@
+À 0192 Latin capital letter A with grave
+Á 0193 Latin capital letter A with acute
+Â 0194 Latin capital letter A with circumflex
+Ã 0195 Latin capital letter A with tilde
+Ä 0196 Latin capital letter A with diaeresis
+Å 0197 Latin capital letter A with ring above
+Æ 0198 Latin capital letter AE
+Ç 0199 Latin capital letter C with cedilla
+È 0200 Latin capital letter E with grave
+É 0201 Latin capital letter E with acute
+Ê 0202 Latin capital letter E with circumflex
+Ë 0203 Latin capital letter E with diaeresis
+Ì 0204 Latin capital letter I with grave
+Í 0205 Latin capital letter I with acute
+Î 0206 Latin capital letter I with circumflex
+Ï 0207 Latin capital letter I with diaeresis
+Ð 0208 Latin capital letter ETH
+Ñ 0209 Latin capital letter N with tilde
+Ò 0210 Latin capital letter O with grave
+Ó 0211 Latin capital letter O with acute
+Ô 0212 Latin capital letter O with circumflex
+Õ 0213 Latin capital letter O with tilde
+Ö 0214 Latin capital letter O with diaeresis
+× 0215 Multiplication sign
+Ø 0216 Latin capital letter O with slash
+Ù 0217 Latin capital letter U with grave
+Ú 0218 Latin capital letter U with acute
+Û 0219 Latin capital letter U with circumflex
+Ü 0220 Latin capital letter U with diaeresis
+Ý 0221 Latin capital letter Y with acute
+Þ 0222 Latin capital letter THORN
+ß 0223 Latin small letter sharp s ‐ ess‐zed
+à 0224 Latin small letter a with grave
+á 0225 Latin small letter a with acute
+â 0226 Latin small letter a with circumflex
+ã 0227 Latin small letter a with tilde
+ä 0228 Latin small letter a with diaeresis
+å 0229 Latin small letter a with ring above
+æ 0230 Latin small letter ae
+ç 0231 Latin small letter c with cedilla
+è 0232 Latin small letter e with grave
+é 0233 Latin small letter e with acute
+ê 0234 Latin small letter e with circumflex
+ë 0235 Latin small letter e with diaeresis
+ì 0236 Latin small letter i with grave
+í 0237 Latin small letter i with acute
+î 0238 Latin small letter i with circumflex
+ï 0239 Latin small letter i with diaeresis
+ð 0240 Latin small letter eth
+ñ 0241 Latin small letter n with tilde
+ò 0242 Latin small letter o with grave
+ó 0243 Latin small letter o with acute
+ô 0244 Latin small letter o with circumflex
+õ 0245 Latin small letter o with tilde
+ö 0246 Latin small letter o with diaeresis
+List of Approved Special Characters
+÷ 0247 Division sign
+ø 0248 Latin small letter o with slash
+ù 0249 Latin small letter u with grave
+ú 0250 Latin small letter u with acute
+û 0251 Latin small letter u with circumflex
+ü 0252 Latin small letter u with diaeresis
+ý 0253 Latin small letter y with acute
+þ 0254 Latin small letter thorn
+ÿ 0255 Latin small letter y with diaeresis

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oaxaca",
+               "short_name" : "Oax.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oaxaca, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.6696879,
+                  "lng" : -93.8674267
+               },
+               "southwest" : {
+                  "lat" : 15.6571686,
+                  "lng" : -98.5527072
+               }
+            },
+            "location" : {
+               "lat" : 17.0542297,
+               "lng" : -96.7132304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6696879,
+                  "lng" : -93.8674267
+               },
+               "southwest" : {
+                  "lat" : 15.6571686,
+                  "lng" : -98.5527072
+               }
+            }
+         },
+         "place_id" : "ChIJUVwOOk_YwIURyQvZPUMMxkQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

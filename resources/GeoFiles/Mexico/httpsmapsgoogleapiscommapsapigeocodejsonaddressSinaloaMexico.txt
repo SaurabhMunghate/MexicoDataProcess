@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinaloa",
+               "short_name" : "Sin.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinaloa, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0423059,
+                  "lng" : -105.39222
+               },
+               "southwest" : {
+                  "lat" : 22.4671337,
+                  "lng" : -109.4476927
+               }
+            },
+            "location" : {
+               "lat" : 25.1721091,
+               "lng" : -107.4795173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0423059,
+                  "lng" : -105.39222
+               },
+               "southwest" : {
+                  "lat" : 22.4671337,
+                  "lng" : -109.4476927
+               }
+            }
+         },
+         "place_id" : "ChIJWUmnKJRTn4YR71--DXbfe5w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

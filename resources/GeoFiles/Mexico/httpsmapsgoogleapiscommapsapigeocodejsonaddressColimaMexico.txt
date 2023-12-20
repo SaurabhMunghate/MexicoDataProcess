@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colima",
+               "short_name" : "Col.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colima, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5125186,
+                  "lng" : -103.4863465
+               },
+               "southwest" : {
+                  "lat" : 18.3391323,
+                  "lng" : -114.7601011
+               }
+            },
+            "location" : {
+               "lat" : 19.1222634,
+               "lng" : -104.0072348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5125186,
+                  "lng" : -103.4863465
+               },
+               "southwest" : {
+                  "lat" : 18.3391323,
+                  "lng" : -114.7601011
+               }
+            }
+         },
+         "place_id" : "ChIJ6yVw_g0yJYQRCmlXH5dAHiw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

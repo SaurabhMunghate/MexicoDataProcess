@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Pue.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puebla, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.839960,
+                  "lng" : -96.724683
+               },
+               "southwest" : {
+                  "lat" : 17.860912,
+                  "lng" : -99.070494
+               }
+            },
+            "location" : {
+               "lat" : 19.0412967,
+               "lng" : -98.20619959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1379254,
+                  "lng" : -98.10335380000001
+               },
+               "southwest" : {
+                  "lat" : 18.942169,
+                  "lng" : -98.28257649999999
+               }
+            }
+         },
+         "place_id" : "ChIJO3q8Xr3Az4URla2U5B1Gpkg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

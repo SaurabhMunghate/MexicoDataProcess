@@ -1,0 +1,23 @@
+/CopyDBAtNewSchema.java/1.1/Mon Sep 10 05:38:00 2018//
+/CopyDBToDB.java/1.1/Mon Sep 10 05:38:00 2018//
+/CopyTableToTable.java/1.1/Mon Sep 10 05:38:00 2018//
+/CorrectorAtDB.java/1.8/Wed Feb 13 06:15:36 2019//
+/CreateSerializeOfCompositeKeyFromDB.java/1.4/Wed Feb 13 06:15:36 2019//
+/CreateSerializofCompositeKey.java/1.1/Mon Sep 10 05:38:00 2018//
+/DataValidateReport.java/1.6/Wed Feb 13 04:29:34 2019//
+/DuplicateCompositeDataAtDB.java/1.1/Mon Sep 10 05:38:00 2018//
+/ExtractInvalidGeoBoundary.java/1.1/Mon Sep 10 05:38:00 2018//
+/FindDuplicateState.java/1.1/Mon Sep 10 05:38:00 2018//
+/InsertCSVBatchAtDB.java/1.1/Mon Sep 10 05:38:00 2018//
+/InsertNewRecordAtDB.java/1.7/Wed Feb 13 04:45:32 2019//
+/ReportDB.java/1.1/Mon Sep 10 05:38:00 2018//
+/ScoreTequila.java/1.1/Tue Sep 18 06:25:34 2018//
+/SerializeSICCode.java/1.1/Mon Sep 10 05:38:00 2018//
+/TequilaAtDB.java/1.1/Mon Sep 10 05:38:00 2018//
+/TestPath.java/1.1/Mon Sep 10 05:38:00 2018//
+/UpdateLatLongAtDB.java/1.1/Mon Sep 10 05:38:00 2018//
+/UpdateScore.java/1.1/Tue Sep 18 06:25:34 2018//
+D/address////
+D/corrector////
+D/search////
+D/validator////

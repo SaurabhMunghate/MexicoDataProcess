@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="jars/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="jars/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="jars/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jars/opencsv-4.0.jar" sourcepath="/home/chinmay/.m2/repository/com/opencsv/opencsv/4.0/opencsv-4.0-sources.jar"/>
+	<classpathentry kind="lib" path="jars/sqlite-jdbc-3.21.0.jar"/>
+	<classpathentry kind="lib" path="jars/SuperCSV-1.52.jar"/>
+	<classpathentry kind="lib" path="jars/validator/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="jars/fuzzywuzzy/fuzzywuzzy-1.1.9.jar" sourcepath="jars/fuzzywuzzy/fuzzywuzzy-1.1.9-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/MexicoDataProcess/jars/fuzzywuzzy/fuzzywuzzy-1.1.9-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="jars/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="jars/pdfBox/fontbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="jars/pdfBox/pdfbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="jars/dnsjava-2.1.8.jar"/>
+	<classpathentry kind="lib" path="jars/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="jars/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="jars/jsoup-1.6.0.jar"/>
+	<classpathentry kind="lib" path="jars/commons-text-1.6.jar"/>
+	<classpathentry kind="lib" path="jars/fuzzywuzzy/fuzzywuzzy-1.1.9-sources.jar"/>
+	<classpathentry kind="lib" path="jars/fuzzywuzzy/fuzzywuzzy-1.1.9-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
