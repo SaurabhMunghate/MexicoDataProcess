@@ -24,7 +24,7 @@ public class CorrectorAndUniqueCSV {
 	private static final String DIR_PATH = "/home/shatam-100/MexicoCache/Cache/";
 	
 //	private static final String UNIQUE_FILE_PATH = DIR_PATH + "/All_Unique_Record_16_01_2023.csv";
-	private static final String UNIQUE_FILE_PATH = DIR_PATH + "/All_Unique_Record_0_224000_190000_200000_F1_From_0-2300.csv";
+	private static final String UNIQUE_FILE_PATH = DIR_PATH + "/All_Unique_Record_0_224000_160001_170000_S_F1_4500_7000.csv";
 	
 	/*
 	 * For Single File
@@ -33,7 +33,7 @@ public class CorrectorAndUniqueCSV {
 	
 //	private static final String SINGLE_FILE = "/home/shatam-10/MexicoCache/Cache/Inegi_Information_4000 (charumam)_CORRECT_NW_REC.csv";
 //	private static final String SINGLE_FILE = "/home/shatam-100/Desktop/MexicoCacheUniqueRecord/Inegi_Information_0_224000_60001_70000_S_F_7500_to_10000_.csv";
-	private static final String SINGLE_FILE = "/home/shatam-100/MexicoCache/Cache/Inegi_Information_0_224000_190000_200000_F1_From_0-2300_CORRECT_NW_REC.csv";
+	private static final String SINGLE_FILE = "/home/shatam-100/MexicoCache/Cache/Inegi_Information_0_224000_160001_170000_S_F1_4500_7000_CORRECT_NW_REC.csv";
 	
 	public static void main(String[] args) {
 		CorrectorAndUniqueCSV corrector = new CorrectorAndUniqueCSV();

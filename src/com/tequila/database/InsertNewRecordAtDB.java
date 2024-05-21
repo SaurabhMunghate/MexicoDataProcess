@@ -53,7 +53,7 @@ public class InsertNewRecordAtDB {
 	private static final String MAIN_DB_NAME = "tequila.db";
 	
 //	private static final String INPUT_FILE_PATH = "/home/shatam-10/MexicoCache/Cache/All_Unique_Record_16_01_2023_Part_1.csv";
-	private static final String INPUT_FILE_PATH = "/home/shatam-100/Desktop/MexicoCacheUniqueRecord/All_Unique_Record_0_224000_190000_200000_F1_From_0-2300.csv";
+	private static final String INPUT_FILE_PATH = "/home/shatam-100/Desktop/MexicoCacheUniqueRecord/All_Unique_Record_0_224000_160001_170000_S_F1_4500_7000.csv";
 //	private static final String INPUT_FILE_PATH = "/home/shatam-100/Desktop/MexicoCacheUniqueRecord/All_Unique_Record_15_05_2023_N_0_22010_1_2_3_Final_00001-15000_Part_1_DDDD.csv";
 	
 	Connection conn = null;

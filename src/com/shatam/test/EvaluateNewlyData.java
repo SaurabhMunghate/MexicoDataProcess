@@ -10,7 +10,7 @@ import com.shatam.utils.Validator;
 
 public class EvaluateNewlyData {
 
-	private static final String FILE_NAME = "/home/shatam-100/MexicoCache/Cache/Inegi_Information_0_224000_190000_200000_F1_From_0-2300_CORRECT_NW_REC.csv";
+	private static final String FILE_NAME = "/home/shatam-100/MexicoCache/Cache/Inegi_Information_0_224000_160001_170000_S_F1_4500_7000_CORRECT_NW_REC.csv";
 
 	public static void main(String[] args) throws Exception {
 		evaluateNewlyData();

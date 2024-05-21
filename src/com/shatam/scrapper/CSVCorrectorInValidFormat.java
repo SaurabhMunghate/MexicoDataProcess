@@ -40,7 +40,7 @@ import me.xdrop.fuzzywuzzy.FuzzySearch;
 public class CSVCorrectorInValidFormat implements TextFormat{
 	
 //	private String inputFile = "/home/shatam-10/MexicoCache/Cache/Inegi_Information_4000 (charumam).csv";
-	private String inputFile = "/home/shatam-100/MexicoCache/Cache/Inegi_Information_0_224000_190000_200000_F1_From_0-2300.csv";
+	private String inputFile = "/home/shatam-100/MexicoCache/Cache/Inegi_Information_0_224000_160001_170000_S_F1_4500_7000.csv";
 
 	List<String[]>  readLines = null;
 	
